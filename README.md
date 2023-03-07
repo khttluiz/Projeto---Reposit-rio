@@ -9,10 +9,10 @@ Funcionalidades
  a peças de coleção quanto a coleções completa.
 
 Tecnologia Utilizada
-HTML
-CSS
-Javascripting
-Node.JS
+- HTML
+- CSS
+- Javascripting
+- Node.JS
 
 Implementação Futura
 - Projeto poderá conter algumas alterações de melhorias.
