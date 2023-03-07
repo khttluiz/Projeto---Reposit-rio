@@ -1,4 +1,4 @@
-EDITORA 
+𝐄𝐃𝐈𝐓𝐎𝐑𝐀 𝐃𝐄 𝐋𝐈𝐕𝐑𝐎𝐒
 
 Descrição
 
